@@ -1,0 +1,42 @@
+.root {
+    -fx-background-color: #455A64;
+}
+
+.region {
+    -fx-background-color: #263238;
+}
+
+.button {
+    -fx-background-color: #37474F;
+    -fx-text-fill: #F06292;
+    -fx-font-size: 22px;
+    -fx-font-weight: bold;
+}
+
+.button:hover {
+    -fx-text-fill: #D81B60;
+}
+
+.number-buttons {
+    -fx-background-color: #37474F;
+    -fx-text-fill: #4FC3F7;
+    -fx-font-size: 21px;
+    -fx-font-weight: bold;
+}
+
+.number-buttons:hover {
+    -fx-text-fill: #0288D1;
+}
+
+.gridpane {
+    -fx-background-color: #37474F;
+}
+
+.back-clear-buttons {
+    -fx-font-size: 15px;
+}
+
+.label {
+    -fx-text-fill: #D81B60;
+    -fx-font-weight: bold;
+}
