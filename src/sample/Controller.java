@@ -157,9 +157,4 @@ public class Controller {
             }
         }
     }
-
-    public void labelT(MouseEvent event) {
-        //((Label)event.getSource()).setText("");
-
-    }
 }
